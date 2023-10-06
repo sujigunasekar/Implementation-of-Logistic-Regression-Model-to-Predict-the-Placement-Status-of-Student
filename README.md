@@ -83,16 +83,22 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 
 ## Output:
 ### Placement Data:
-
 ![image](https://github.com/sujigunasekar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119559822/52d21019-5ba7-4bdb-bb35-0bd1b907c388)
-### Salary Data:
 
-![image](https://github.com/sujigunasekar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119559822/d7d01689-8896-40f4-b638-781f8dd88130)
+### Salary Data:
+![image](https://github.com/sujigunasekar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119559822/4823d9c2-3f68-4dc7-bd6e-0ef358e0af72)
+
+### Checking the null() function:
+![image](https://github.com/sujigunasekar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119559822/5301056b-5cfa-4b3f-a678-0e592329a8bf)
+
+### Data Duplicate:
+![image](https://github.com/sujigunasekar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119559822/6ae0ddd3-a6ea-4ed1-9936-f974f80f7576)
+
 ### Print Data:
 
 ![image](https://github.com/sujigunasekar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119559822/0cbf55b3-ebac-4414-81dc-227d3a59ac13)
 
-### Data-status:'
+### Data-status:
 
 ![image](https://github.com/sujigunasekar/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/119559822/69934acc-b2a1-446d-b5e0-1d3dd3782c3f)
 
